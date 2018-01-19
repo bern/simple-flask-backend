@@ -1,0 +1,4 @@
+Flask: http://flask.pocoo.org/
+REST Wiki Page: https://en.wikipedia.org/wiki/Representational_state_transfer
+MondoDB RESTful API with Flask: http://www.bogotobogo.com/python/MongoDB_PyMongo/python_MongoDB_RESTAPI_with_Flask.php
+MongoDB and Python: https://bruceelgort.com/2014/03/20/mongodb-and-python-a-simple-example/
